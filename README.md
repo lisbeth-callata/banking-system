@@ -86,8 +86,3 @@ http://localhost:8080
 5. Ejecuta el proyecto con Maven:
   ```bash
    mvn spring-boot:run
----
-
-## **Autor**
-
-- [Lisbeth Callata](https://github.com/lisbeth-callata)
